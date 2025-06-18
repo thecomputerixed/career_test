@@ -1,0 +1,492 @@
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [answers] => Array
+        (
+            [0] => D
+            [1] => D
+        )
+
+    [dominant] => 
+    [second_dominant] => 
+    [percentages] => 
+    [code] => 
+)
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [answers] => Array
+        (
+            [0] => D
+            [1] => D
+        )
+
+    [dominant] => 
+    [second_dominant] => 
+    [percentages] => 
+    [code] => 
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 30
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 34
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [answers] => Array
+        (
+            [0] => A
+            [1] => C
+        )
+
+    [code] => 
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [answers] => Array
+        (
+            [0] => A
+            [1] => C
+        )
+
+    [code] => 
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 3
+    [user_name] => John Ize Sonia
+    [user_phone_number] => 09054679800
+)
+Array
+(
+    [user_id] => 3
+    [user_name] => John Ize Sonia
+    [user_phone_number] => 09054679800
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [code] => 
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 3
+    [user_name] => John Ize Sonia
+    [user_phone_number] => 09054679800
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+    [code] => Thinker_Doer
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 11
+    [user_name] => Precious Asmota
+    [user_phone_number] => 07045362227
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+    [student_id] => 9
+    [student_email] => earthtabservicesnigltd@gmail.com
+    [student_name] => Blessing Agho
+    [student_phone] => 07025007533
+)
+Array
+(
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_id] => 2
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+    [code] => Thinker_Doer
+    [student_id] => 9
+    [student_email] => earthtabservicesnigltd@gmail.com
+    [student_name] => Blessing Agho
+    [student_phone] => 07025007533
+)
+Array
+(
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_id] => 15
+    [user_name] => Loveth Adogbeji
+    [user_phone_number] => 08102705704
+    [code] => Thinker_Doer
+    [student_id] => 9
+    [student_email] => earthtabservicesnigltd@gmail.com
+    [student_name] => Blessing Agho
+    [student_phone] => 07025007533
+)
+Array
+(
+    [admin_id] => 1
+    [admin_email] => admin@gmail.com
+    [user_id] => 15
+    [user_name] => Loveth Adogbeji
+    [user_phone_number] => 08102705704
+    [code] => Thinker_Doer
+    [student_id] => 9
+    [student_email] => earthtabservicesnigltd@gmail.com
+    [student_name] => Blessing Agho
+    [student_phone] => 07025007533
+)
+Array
+(
+    [student_id] => 9
+    [user_id] => 2
+    [student_email] => earthtabservicesnigltd@gmail.com
+    [student_name] => Blessing Agho
+    [student_phone] => 07025007533
+    [code] => Thinker_Doer
+    [user_name] => Blessing Agho
+    [user_phone_number] => 07025007533
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
+Array
+(
+    [user_id] => 1
+    [user_name] => Moses Maxwell
+    [user_phone_number] => 07069452279
+)
